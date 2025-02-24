@@ -1,12 +1,11 @@
-import Login from "./pages/Login"; 
-import "./App.css";
+import './App.css'
+import { Button } from './components/ui/button'
+import Login from './pages/Login'
 
 function App() {
   return (
-    <main>
-      <Login/>
-    </main>
-  );
+    <Login></Login>
+  )
 }
 
-export default App;
+export default App
