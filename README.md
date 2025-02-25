@@ -1,2 +1,1 @@
-# LMS
- 
+# LMS - online learning platform.
